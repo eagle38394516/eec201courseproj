@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+# Here's the EEC 201 course project of Chen Wang and Ken Yang.
 
-You can use the [editor on GitHub](https://github.com/eagle38394516/eec201courseproj/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to our Course Project!
+
+You can search files and see the running results on this page.
+
+
+use the [editor on GitHub](https://github.com/eagle38394516/eec201courseproj/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

@@ -4,6 +4,8 @@
 
 You can search files and see the running results on this page.
 
+[Baidu Website](https://www.baidu.com/)
+[Another HTML](aa.html) of our project.
 
 use the [editor on GitHub](https://github.com/eagle38394516/eec201courseproj/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

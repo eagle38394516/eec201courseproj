@@ -83,5 +83,3 @@ For more information, visit these and other homepages:
 (Reference8)[http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/digital%20speech%20processing%20course/projects/LPC%20Vocoder%20Project.pdf]
 
 (Reference9)[http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/digital%20speech%20processing%20course/Matlab%20Code/matlab_speech_2011_6tp.pdf]
-
-dddddd

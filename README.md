@@ -13,7 +13,7 @@ Name | SID | E-mail
 Chen Wang | 916712699 | wacwang@ucdavis.edu
 Ken Yang | 916682693 | lsyang@ucdavis.edu
 
-Here's are the intro to the project B:
+Here's the introduction to the project B:
 
 ***
 
@@ -23,11 +23,11 @@ Here's are the intro to the project B:
 
 This is a friendly competition to see which team can deliver the best product. Your design MUST be original, i.e., built by your own team from scratch and tested extensively by yourself. This project is distributed with a honor pledge.
 
-### II. Team Work 
+### II. Team Work
 
 Students in the class should form teams of 2 or 3 to complete this project. Each student MUST contribute significantly to the completion of the project and the report and the live demonstration. Each team must complete their own designs. Teams can discuss their ideas but MAY NOT exchange programs.
 
-### III. Project-B Task 
+### III. Project-B Task
 
 <ol>
 <li type='1'>Programming tasks: Design and implement an LPC vocoder and synthesizer in Matlab with GUI. For information on how to build GUI from Matlab, read Mathworks document.</li>
@@ -84,4 +84,4 @@ For more information, visit these and other homepages:
 
 [Reference9](http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/digital%20speech%20processing%20course/Matlab%20Code/matlab_speech_2011_6tp.pdf)
 
-(Last update: Feb. 22, 2019 15:40:00)
+(Last update: Feb. 22, 2019 15:41:20)

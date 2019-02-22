@@ -65,12 +65,21 @@ There shall be a live presentation in class for all teams.
 Vocoder is how human speech is currently encoded for cellular phones and a number of applications. For example, the famous LPC-10 is a government standard that encodes (with loss) human speech into 2.4kb/s data. Phase vocoder has a similar concept. It is used in the music industry (Auto-Tune).
 
 For more information, visit these and other homepages:
+
 (Reference1)[http://www.data-compression.com/speech.html]
+
 (Reference2)[http://www.speech.cs.cmu.edu/comp.speech/Section3/Software/celp-3.2a.html]
+
 (Reference3)[http://searchworks.stanford.edu/view/2971130]
+
 (Reference4)[http://www.seas.ucla.edu/spapl/projects/ee214aW2002/1/report.html]
+
 (Reference5)[https://www.mathworks.com/matlabcentral/fileexchange/45321-lpc-vocoder]
+
 (Reference6)[https://www.mathworks.com/matlabcentral/fileexchange/52114-lpc-vocoder]
+
 (Reference7)[http://eeweb.poly.edu/iselesni/EL713/Speech/speech.pdf]
+
 (Reference8)[http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/digital%20speech%20processing%20course/projects/LPC%20Vocoder%20Project.pdf]
+
 (Reference9)[http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/digital%20speech%20processing%20course/Matlab%20Code/matlab_speech_2011_6tp.pdf]

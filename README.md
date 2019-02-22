@@ -47,7 +47,7 @@ Students in the class should form teams of 2 or 3 to complete this project. Each
 <li type='a'>Record another student’s voice for the program to encode and decode;</li>
 <li type='a'>Show the results on the effect of the vocoder and decoder at different code rates;</li>
 <li type='a'>Test the program on a standard newscaster’s reporting and a popular song sung by one of the team members;</li>
-<li type='a'>Test the program when two people are talking at the same time;
+<li type='a'>Test the program when two people are talking at the same time;</li>
 <li type='a'>By simpler changing the estimated pitch, test to convert a female vocalist into a male voice and vice versa. </li>
 </ol>
 

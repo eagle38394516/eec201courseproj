@@ -2,9 +2,9 @@
 
 ## Welcome to our Course Project!
 
-You can search files and see the running results on this page.
+You can see the introduction of the project and see the results in this page.
 
-[Baidu Website](https://www.baidu.com/)
+Our team works on Project B. ([See the introduction to the project B in PDF version.](Project2019.pdf))
 
 [Another HTML](aa.html) of our project.
 

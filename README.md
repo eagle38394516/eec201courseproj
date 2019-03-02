@@ -2,7 +2,7 @@
 
 ## Welcome to our Course Project!
 
-See our [Interim Report]().
+See our [Interim Report](InterimReport.pdf).
 
 You can see the introduction of the project and see the results in this page.
 

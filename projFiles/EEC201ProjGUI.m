@@ -309,8 +309,9 @@ function playOriginalBtn_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
     globals = guidata(handles.figure1);
 
-    player = audioplayer(globals.data, globals.samplingRate);
-    play(player);
+%     player = audioplayer(globals.data, globals.samplingRate);
+%     play(player);
+    sound(globals.data, globals.samplingRate);
 
     guidata(handles.figure1, globals)
 
@@ -321,8 +322,9 @@ function playSynthBtn_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
     globals = guidata(handles.figure1);
 
-    player = audioplayer(globals.signalOut, globals.samplingRate);
-    play(player);
+%     player = audioplayer(globals.signalOut, globals.samplingRate);
+%     play(player);
+    sound(globals.signalOut, globals.samplingRate);
 
     guidata(handles.figure1, globals)
 

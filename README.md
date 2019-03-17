@@ -2,7 +2,11 @@
 
 ## Welcome to our Course Project!
 
-See our [Interim Report](InterimReport.pdf).
+See our [Interim Report](InterimReport.html).
+
+See our [Final Report](FinalReport.html).
+
+See our [Demo Video](DemoVideo.mp4).
 
 You can see the introduction of the project and see the results in this page.
 

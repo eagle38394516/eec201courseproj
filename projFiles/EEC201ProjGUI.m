@@ -95,6 +95,9 @@ function openFileBtn_Callback(hObject, eventdata, handles)
     WAV_FILE = [path, file];
     globals.data = myAudioIn(WAV_FILE, globals.samplingRate);
     plot(handles.axes1, globals.data);
+    
+    axes(handles.axes4);
+    spectrogram(globals.data, 256, 'yaxis');
 
     guidata(handles.figure1, globals)
 
@@ -123,6 +126,9 @@ function recordBtn_Callback(hObject, eventdata, handles)
         plot(handles.axes1, globals.data);
 
         set(hObject, 'String', 'Record');
+    
+        axes(handles.axes4);
+        spectrogram(globals.data, 256, 'yaxis');
     end
 
     guidata(handles.figure1, globals)
@@ -207,6 +213,10 @@ function decoderBtn_Callback(hObject, eventdata, handles)
 
     globals.signalOut = myPreFilter(globals.signalOut, 0.98);
     globals.signalOut = globals.signalOut / max(globals.signalOut);
+    
+    axes(handles.axes5);
+    spectrogram(globals.signalOut, 256, 'yaxis');
+    
     guidata(handles.figure1, globals)
 
 

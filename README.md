@@ -8,7 +8,7 @@ See our [Final Report](FinalReport.html).
 
 See our [Demo Video](DemoVideo.mp4).
 
-See our [Codes](https://eagle38394516.github.io/eec201courseproj/).
+See our [Codes](https://github.com/eagle38394516/eec201courseproj).
 
 You can see the introduction of the project and see the results in this page.
 

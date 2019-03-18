@@ -6,7 +6,9 @@ See our [Interim Report](InterimReport.html).
 
 See our [Final Report](FinalReport.html).
 
-See our [Demo Video](DemoVideo.mp4).
+See our [Demo Video1](https://youtu.be/df6rc60LSwA).
+
+See our [Demo Video2](https://youtu.be/OQ9EetNxkbM).
 
 See our [Codes](https://github.com/eagle38394516/eec201courseproj).
 
